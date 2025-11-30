@@ -1,0 +1,11 @@
+build*/
+*.user
+*.pro.user
+*.cache
+*.autosave
+*.tmp
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
